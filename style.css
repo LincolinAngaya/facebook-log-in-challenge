@@ -33,5 +33,17 @@ input[type='text'],input[type='password']{
 
 }
 button{
-  
+  border: none;
+  background-color: blue;
+  color: white;
+  margin: auto;
+  width: 283px;
+  display: block;
+  border-radius: 5px;
+  padding: 10px 0;
+  font-weight: bold;
+  cursor: pointer;
+}
+.btn{
+  background-color: green;
 }
