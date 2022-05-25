@@ -46,7 +46,10 @@ button{
   cursor: pointer;
 }
 .btn{
-  background-color: green;
+  background-color: #42b72a;
+  width: 180px;
+  font-size: 14px;
+  text-align: center;
 }
 .f-pws{
   text-decoration: none;
@@ -56,4 +59,25 @@ button{
   font-weight: 400;
   cursor: pointer;
   font-family: 'Segoe UI';
+}
+.line{
+  border-top: 1px solid #222;
+  opacity: 0.2;
+}
+.sub-link{
+ 
+  width: 279px;
+  position: relative;
+  color: #222;
+  font-family: 'Segoe UI', Arial;
+  padding: 400px 890px;
+  font-size: 10px;
+  font-weight: 600;
+}
+.sub-link a{
+ 
+color: black;
+font-weight: bold;
+font-size: 13px;
+cursor: pointer;
 }
