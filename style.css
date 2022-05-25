@@ -14,7 +14,7 @@ form{
   position: absolute;
   width: 320px;
   height: 270px;
-  padding: 10px 5px 20px 5px;
+  padding: 20px 5px 20px 5px;
   margin:10vh 850px;
   border-radius: 5px;
   box-shadow: 5px 5px 6px -7px;
@@ -22,7 +22,8 @@ form{
 input[type='text'],input[type='password']{
   display: block;
   background-color: #fff;
-  margin: auto;border: 1.5px solid rgb(200,200,200);
+  margin: auto;
+  border: 1.5px solid rgb(200,200,200);
   width: 200px;
   padding: 10px 40px;
   border-radius: 5px;
@@ -46,4 +47,13 @@ button{
 }
 .btn{
   background-color: green;
+}
+.f-pws{
+  text-decoration: none;
+  display: block;
+  text-align: center;
+  color: blue;
+  font-weight: 400;
+  cursor: pointer;
+  font-family: 'Segoe UI';
 }
